@@ -111,4 +111,114 @@ export const usersData: User[] = [
         country: "United States",
         description: "This character description generator will generate a fairly random description of a belonging to Claire Robertson. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Claire Robertson."
     }
+    {
+    id: 11,
+    first: "Ümit",
+    last: "Taşlı",
+    dob: "2004-10-17",
+    gender: "male",
+    email: "umit.tasli@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/80.jpg",
+    country: "Turkey",
+    description: "This character description generator will generate a fairly random description of a belonging to Ümit Taşlı. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Ümit Taşlı."
+  },
+  {
+    id: 12,
+    first: "Tiemo",
+    last: "Monshouwer",
+    dob: "1956-09-11",
+    gender: "male",
+    email: "tiemo.monshouwer@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/16.jpg",
+    country: "Netherlands",
+    description: "This character description generator will generate a fairly random description of a belonging to Tiemo Monshouwer. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Tiemo Monshouwer."
+  },
+  {
+    id: 13,
+    first: "Dorian",
+    last: "Carpentier",
+    dob: "1963-10-06",
+    gender: "male",
+    email: "dorian.carpentier@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/77.jpg",
+    country: "France",
+    description: "This character description generator will generate a fairly random description of a belonging to Dorian Carpentier. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Dorian Carpentier."
+  },
+  {
+    id: 14,
+    first: "آرمیتا",
+    last: "موسوی",
+    dob: "1968-07-19",
+    gender: "female",
+    email: "armyt.mwswy@example.com",
+    picture: "https://randomuser.me/api/portraits/med/women/59.jpg",
+    country: "Iran",
+    description: "This character description generator will generate a fairly random description of a belonging to آرمیتا موسوی. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of آرمیتا موسوی."
+  },
+  {
+    id: 15,
+    first: "Lias",
+    last: "Korsvik",
+    dob: "1969-12-09",
+    gender: "male",
+    email: "lias.korsvik@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/69.jpg",
+    country: "Norway",
+    description: "This character description generator will generate a fairly random description of a belonging to Lias Korsvik. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Lias Korsvik."
+  },
+  {
+    id: 16,
+    first: "Florence",
+    last: "Cooper",
+    dob: "1989-08-31",
+    gender: "female",
+    email: "florence.cooper@example.com",
+    picture: "https://randomuser.me/api/portraits/med/women/19.jpg",
+    country: "Ireland",
+    description: "This character description generator will generate a fairly random description of a belonging to Florence Cooper. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Florence Cooper."
+  },
+  {
+    id: 17,
+    first: "Donald",
+    last: "Harrison",
+    dob: "1947-12-20",
+    gender: "male",
+    email: "donald.harrison@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/34.jpg",
+    country: "United Kingdom",
+    description: "This character description generator will generate a fairly random description of a belonging to Donald Harrison. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Donald Harrison."
+  },
+  {
+    id: 18,
+    first: "Michael",
+    last: "Nichols",
+    dob: "1963-06-26",
+    gender: "male",
+    email: "michael.nichols@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/76.jpg",
+    country: "United Kingdom",
+    description: "This character description generator will generate a fairly random description of a belonging to Michael Nichols. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Michael Nichols."
+  },
+  {
+    id: 19,
+    first: "Emile",
+    last: "Miller",
+    dob: "2009-02-03",
+    gender: "male",
+    email: "emile.miller@example.com",
+    picture: "https://randomuser.me/api/portraits/med/men/24.jpg",
+    country: "Canada",
+    description: "This character description generator will generate a fairly random description of a belonging to Emile Miller. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Emile Miller."
+  },
+  {
+    id: 20,
+    first: "Marjella",
+    last: "Stuijt",
+    dob: "2014-11-11",
+    gender: "female",
+    email: "marjella.stuijt@example.com",
+    picture: "https://randomuser.me/api/portraits/med/women/31.jpg",
+    country: "Netherlands",
+    description: "This character description generator will generate a fairly random description of a belonging to Marjella Stuijt. However, some aspects of the descriptions will remain the same, this is done to keep the general structure the same, while still randomizing the important details of Marjella Stuijt."
+  }
 ];
